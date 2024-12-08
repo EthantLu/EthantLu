@@ -1,6 +1,6 @@
 ### Hi there, I'm Ethan Lu 👋
 
-![Profile views](https://gpvc.arturio.dev/EthantLu)
+![Profile views](https://avatars.githubusercontent.com/u/45777553?v=4)
 
 I am a passionate developer with a keen interest in [Large language models]. I enjoy working on various projects and am always eager to learn and explore new technologies.
 
