@@ -7,7 +7,6 @@ I am a passionate developer with a keen interest in [Large language models]. I e
 - 🌱 I’m currently learning [Large language models].
 - 💬 Ask me about [Natural language processing & Large language models & Education based knowledge graph].
 - 📫 How to reach me: [mail@lutong.space].
-- ⚡ Fun fact: [].
 
 
 ### 📈 GitHub Stats:
