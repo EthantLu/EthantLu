@@ -1,10 +1,10 @@
 ### Hi there, I'm Ethan Lu 👋
 
-I am a PhD candidate with a keen interest in [Large language models]. I enjoy working on various projects and am always eager to learn and explore new technologies.
+I am a PhD candidate with a keen interest in Natural language processing. I enjoy working on various projects and am always eager to learn and explore new technologies.
 
-- 🌱 I’m currently learning [Large language models].
-- 💬 Ask me about [Natural language processing & Large language models & Education based knowledge graph].
-- 📫 How to reach me: [mail@lutong.space].
+- 🌱 I’m currently learning Large language models applications.
+- 💬 Ask me about Natural language processing & Large language models & Education based knowledge graph.
+- 📫 How to reach me: mail@lutong.space.
 
 
 ### 📈 GitHub Stats:
